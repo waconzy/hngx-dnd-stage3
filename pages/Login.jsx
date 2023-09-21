@@ -98,7 +98,7 @@ const Login = ({ onLogin }) => {
             <Image
               width={2000}
               height={2000}
-              src="/images/modern.png"
+              src="/images/modern.jpg"
               alt="signin_bg"
               className="img_signin"
             />
