@@ -8,10 +8,10 @@ To run this code, follow these simple steps:
 
 1. **Clone the Repository:**
    - Start by cloning the repository. You can do this by navigating to the following link in your web browser:
-     [https://github.com/Mozibix/HNG_task3.git](https://github.com/Mozibix/HNG_task3.git)
+   (https://github.com/waconzy/hngx-dnd-stage3.git)
    - Alternatively, you can use Git to clone the repository with the following command in your terminal or command prompt:
      ```
-     git clone https://github.com/Mozibix/HNG_task3.git
+     git clone (https://github.com/waconzy/hngx-dnd-stage3.git)
      ```
 
 2. **Install Dependencies:**
